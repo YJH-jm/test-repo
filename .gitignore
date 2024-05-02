@@ -1,0 +1,4 @@
+# 가상 환경
+venv/
+# Pycharm 환경 설정 폴더
+.idea/
